@@ -1,4 +1,4 @@
-# Bem vindo ao curso de desenvolvimento de sistemas
+# Bem vindo ao curso de desenvolvimento de sistemas do CEEP
 
 Meu nome é "Ana Luiza Lima de Melo"
 
